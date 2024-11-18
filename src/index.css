@@ -1,0 +1,29 @@
+.header-banner {
+    background-image: url('/backdrop-green-leaves.jpg'); 
+    background-size: cover;
+    background-position: center;
+    color: white;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .header-banner h1 {
+    font-size: 3rem;
+  }
+
+  .btn-group .btn.active {
+    background-color: #1f3726; 
+    color: white;
+  }
+
+  .add-task-btn {
+    background-color: #1f3726; 
+    color: white;
+  }
+  
+  .add-task-btn:hover{
+    background-color: #1f3726; 
+    color: white;
+  }
